@@ -1,0 +1,9 @@
+h1{
+    color: maroon;
+}
+.post{
+    background-color:rgb(243, 216, 216);
+}
+.post h2{
+    font-style: italic;
+}
